@@ -6,7 +6,7 @@ It counts from zero to infinity (One per second)
 
 #HowTo
 The files need to be copied at 
-/home/<USERNAME>/bin
+/home/<b>USERNAME</b>/bin
 
 To Run the Program:
 Type "counter" in linux terminal.
