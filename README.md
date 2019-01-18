@@ -1,10 +1,10 @@
 # Bash-Counter
 A counter based on C and Bash integrated with linux.
 
-#Features:<br>
+<h2>#Features:</h2><br>
 It counts from zero to infinity (One per second).
 
-#HowTo:<br>
+<h2>#HowTo:</h2><br>
 The files need to be copied at <br>
 /home/<b>USERNAME</b>/bin
 
