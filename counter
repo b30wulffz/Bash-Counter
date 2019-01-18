@@ -1,0 +1,45 @@
+#!/bin/bash
+
+if [ ! $1 ]
+then
+	for(( i=0 ;  ; i++ ))
+	do
+	#	echo
+		clear
+		cnt $i
+		echo 
+		echo "-----------------"
+		echo "Copyright @ Shlok"
+		echo
+		echo "      _   _      "     
+		echo "      X   X      "
+		echo
+		echo "   X         x   "
+		echo "    XXX XX XX    "
+		echo "                 "
+		sleep 1
+	done
+else
+	if [ ! $2 ]
+	then 
+		a=$1
+		for(( i=a ; i< (10 + a) ; i++ ))
+		do
+	#		echo
+			clear
+			cnt $i
+			sleep 1
+		done
+	else
+		a=$1
+		b=$2
+		for(( i=a ; i<=b ; i++ ))
+		do
+	#		echo
+			clear
+			cnt $i
+			sleep 1
+		done
+	fi
+fi
+	
