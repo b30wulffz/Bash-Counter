@@ -7,11 +7,11 @@ then
 	#	echo
 		clear
 		cnt $i
-		echo 
+		echo
 		echo "-----------------"
 		echo "Copyright @ Shlok"
 		echo
-		echo "      _   _      "     
+		echo "      _   _      "
 		echo "      X   X      "
 		echo
 		echo "   X         x   "
@@ -21,7 +21,7 @@ then
 	done
 else
 	if [ ! $2 ]
-	then 
+	then
 		a=$1
 		for(( i=a ; i< (10 + a) ; i++ ))
 		do
@@ -42,4 +42,3 @@ else
 		done
 	fi
 fi
-	
