@@ -1,5 +1,5 @@
 # Bash-Counter
-A counter based on C and Bash integrated with linux.
+A counter based on C and Bash, integrated with linux.
 
 <h2>Features:</h2>
 It counts from zero to infinity (One per second).
