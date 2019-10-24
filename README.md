@@ -10,3 +10,5 @@ The files need to be copied at <br>
 
 To Run the Program:<br>
 Type <b>counter</b> in linux terminal.
+
+```Note: Output file needs to be recompiled on different machines```
